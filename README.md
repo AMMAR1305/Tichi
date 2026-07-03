@@ -133,12 +133,9 @@ Each bug report contains:
 
 ## Author
 
-**Mohamed Ammar**
+**Ammar H**
 
 Aspiring Software Test Engineer | Manual Testing | QA Enthusiast
 
----
 
-## Note
 
-This repository was created for learning and demonstrating manual software testing skills, including test case design, execution, validation, and defect reporting following standard QA practices.
