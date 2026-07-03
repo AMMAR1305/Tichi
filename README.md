@@ -125,7 +125,7 @@ Each bug report contains:
 ```
 📁 Tichi
 │
-├── Tichi_Manual_Test_Cases.xlsx
+├── Tichi QA.xlsx
 ├── README.md
 ```
 
